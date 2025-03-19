@@ -1,0 +1,51 @@
+Mentor_ID,Mentor_Name,Industry,Student_ID,Session_Date,Session_Type
+fa752a85-8982-493a-b446-4097d295f088,Joshua Ramirez,Consulting,80f32d46-2e60-4908-a0ec-4b8e00949823,2025-01-16,Group Session
+c068d6d1-27c9-430d-929f-f6a016b5838a,Derek Cooper,Tech,29e32cf2-1a9c-46f2-9bf0-d832d5f300c3,2025-01-31,Group Session
+de7e896f-a133-4fe6-a313-08d7af750a8c,Dana Avila,Finance,3f42da45-1ac1-4a53-a332-2968c77d7793,2025-03-08,Group Session
+96b21180-1743-49f7-a72a-f0edb0613e21,Julie Hill,Education,14f27f80-125c-45c5-88c2-7a553d7d667b,2025-02-25,Group Session
+9801b71c-7979-4109-a36f-dbc6acb0eb9a,David Spence,Healthcare,90586a09-73c2-475a-b7d6-ac5a6377f60c,2025-02-24,One-on-One
+a9a5d9ee-2d79-4662-a91b-0dda08d2f95a,James Romero,Finance,7041ef0e-1950-4006-8c78-3f52115f5349,2025-01-10,Group Session
+1a06e65e-c0f5-40d1-865c-06b17716b5e6,Michael Martin,Education,cbd97609-c565-4dd3-baa0-82ddc45a6a60,2025-01-25,One-on-One
+f4db9946-2379-4d3c-9d7d-47373682c4f7,Kenneth Branch,Tech,b9212f8b-669f-4448-a498-e19ec361e886,2025-01-04,Group Session
+ba6d8965-6c16-4ade-a10d-1d2bc6fb4663,Daisy Smith,Consulting,70acf755-aefb-4b69-8b07-52df196594e8,2025-02-16,Group Session
+70a54cc8-5a54-4d8e-82e9-b20fff03a352,Robert Cunningham,Education,f68f5374-9117-49bf-a767-d6c0790f0fdf,2025-02-26,Group Session
+1d351fcc-e235-4d2c-90d5-c9ec7c79ef01,Bryan Cooper,Tech,ab48860a-5be0-4aa0-bda8-2ca97f559ba5,2025-02-03,Group Session
+31c9a7f7-46c1-49a5-8ae7-cae80dca83f4,Tim Walter MD,Tech,be2965f5-10ff-44ae-a5a7-212f7efecf01,2025-01-25,Group Session
+2d476d63-4ef4-4d42-b9e9-83bf8eb351c9,Tyrone Martinez MD,Tech,11bf63a7-fb29-4289-8981-c313b0b9ec1e,2025-03-16,One-on-One
+32c63f4f-5865-46dc-a296-3a58937dc4a6,Lee Watson,Finance,ce8fbf50-5a73-4e4f-bc0d-81514b1476f9,2025-02-16,Group Session
+307718ae-f6ad-40d0-857d-d720b73adc80,Jacob Eaton,Tech,e307fb19-be2a-4e6e-97b8-4bbda8fa5e05,2025-02-25,Group Session
+50eca83f-f88f-4e64-8202-f240e38ba4d3,Karen Davis,Tech,ac028550-dd16-4926-b5c5-f51720142270,2025-02-17,Group Session
+c2bd1742-a533-43a4-b0ef-3d207d100beb,Victoria Thompson,Healthcare,260e8473-de34-4513-9b46-ae1e227b3bfb,2025-03-05,Group Session
+9962d579-7026-4ca1-a9e4-e688caa307c1,Kelsey Levy,Education,775fdd83-7525-45b1-8860-b4972383a987,2025-01-18,Group Session
+ff477f92-d12e-471a-9066-bb7444e1431b,Kathryn Fleming,Consulting,0cb99aca-0db4-4447-83a7-ba06e17df6ef,2025-03-18,Group Session
+a89fc689-68de-4fff-a20a-342d87734d29,Tiffany Davis,Healthcare,283a784d-08fd-4b56-be01-294e8bfd9dba,2025-01-15,One-on-One
+858c69ee-1cd2-4d7c-9532-1ccb478ac3db,Kendra Travis,Healthcare,633ab2c5-b2f7-4f98-95e5-6ddc778e94eb,2025-02-23,One-on-One
+e4e3d1f8-7a68-41ff-b19d-a578d6849d03,Heather Rogers,Consulting,6d458b4f-ec6d-4164-a36a-a01ab7fd9a3e,2025-03-11,Group Session
+7ac59eb9-0246-44fc-858a-f239848cce9d,Rachel West,Education,c16bddce-fb1c-4d3b-9bac-5a39548fc926,2025-01-05,Group Session
+f301f6ae-f16e-4573-b546-e50e8f805db7,John Young,Healthcare,d61ecc8e-ebbd-426a-8494-6f553aeb729a,2025-01-13,Group Session
+13fdb377-c300-4e04-b044-fd0a45286b77,Dylan Jennings,Consulting,be6d21ca-8feb-4737-a46d-ff8039821b60,2025-02-18,One-on-One
+dc50dac5-c4ab-450f-b225-a90466e71f52,Cynthia Rodriguez,Healthcare,f4e108d1-1a2f-4a3f-a6e4-cfe2f18b2317,2025-01-15,One-on-One
+2f481f28-8e67-487f-9c14-b5b6b915943d,Richard Johnson,Tech,0950dcf4-5615-44b3-aa81-438c37d17637,2025-03-06,Group Session
+7b04f2ba-8cd7-47bf-a846-d836e30094e2,Gregory Peterson,Finance,c7af15dd-11ee-4723-9e6a-82ba737beb88,2025-02-16,One-on-One
+3fd9dcd4-5e35-443d-9834-9722009cf506,Vanessa Chase,Education,7741b252-bb6b-4dde-8d8b-b16451e8f5e0,2025-01-10,One-on-One
+8ae5a818-cbc5-4d7c-aad1-792b7dc8eee3,Laura Anderson,Consulting,783595b2-e07d-4398-9504-59e1f4e5e6e5,2025-01-30,One-on-One
+e6e86142-3a48-4084-b1c8-b73430f0a842,Thomas Hoffman,Education,7856fe19-ee2f-42f0-8c95-eb99f4e3b491,2025-02-04,Group Session
+61cec415-578d-4d8e-ac85-2ff7737bedb0,Phillip Hall,Education,09632edf-bcf1-4d7b-8d19-0321416040eb,2025-03-06,Group Session
+661dff2a-b82b-4632-aa2a-ccfd09587461,Carl Rhodes,Consulting,f6c420d3-0357-42ba-ba12-f347178f8904,2025-01-13,Group Session
+efe69378-9b89-4fb5-8457-c6562be4b000,Veronica Garcia,Tech,5f99b8ff-5781-4f13-a766-62181f495f60,2025-01-09,Group Session
+2d8fccd4-38e5-4cf8-a7e7-fa1cd82da41b,Michele Bailey,Healthcare,41f197d4-410a-4187-9cd2-1111871c1805,2025-02-21,Group Session
+6a54bf91-4a3c-444f-b74f-8f6e9e4171f7,Kristopher Wise,Education,c91c392b-6924-476c-8195-3b39bcd7da30,2025-02-05,Group Session
+acceb0b2-d9fe-4e10-8972-0c6a63ddc074,James Myers,Healthcare,c9eba445-3cb1-4ffb-beb0-6d648e22706e,2025-02-12,One-on-One
+ff07b8a6-a210-482c-810c-9ad90f782bf3,William Arnold,Healthcare,6ae9889a-fb2d-48c5-ba46-7aa43ecce136,2025-01-21,One-on-One
+13bdbaea-30a5-48d2-b19e-c4e94b44d509,Adam Wheeler,Finance,91a46741-7f2b-40d8-b1fb-61c7b5276117,2025-01-12,One-on-One
+cd0d04ec-8306-4fa5-97af-9bccfed719c2,Robert Henderson,Finance,65533903-b078-493c-a037-186b7e1e5d6c,2025-01-24,Group Session
+0beb1ce6-71a0-435b-8d0b-ca4d00e36176,Maurice Green,Education,c4affbce-0ef1-46d8-a4f6-90b55c9a9051,2025-02-12,Group Session
+5a5d6b8f-db58-4e0a-8803-ede11341072c,Aaron Richmond,Education,490c6f6a-3a4a-4fb2-a5ef-a5854ff576af,2025-02-24,One-on-One
+db031012-1aec-45a5-a7be-4e454826f291,Terri Cooper,Tech,6d3bc1e0-f960-4608-a6d1-16d867453c5b,2025-02-20,One-on-One
+eee3b331-41f1-4f4e-83cb-7d5d16738868,Michael Gomez,Education,932136c6-782e-44b9-9f9c-09f2b434d58e,2025-02-10,Group Session
+59bb7a72-183a-4c55-bcd7-7bb2790020bb,Sarah Smith,Tech,963c275a-c4ff-4a67-a25b-6f6adc978366,2025-01-30,Group Session
+86d84a11-0918-473b-bbf7-098a0a903147,Kimberly Contreras,Healthcare,bb702a04-5c4f-48ba-bd3c-316d8f345ac1,2025-01-23,One-on-One
+c768ab91-6b6d-4ce5-8d81-9dfbcd7ea25f,Jeffrey Phillips,Healthcare,9d566fae-2dc3-49d9-b99c-e1eaa89f1f20,2025-03-12,Group Session
+685ec5c4-985d-447d-98b5-2ee515ff512f,Lawrence Scott,Finance,c41da52e-6872-47d0-a1bc-de6b16ad5fbc,2025-01-16,Group Session
+b558dfdf-3f08-42c1-b801-c939d8802c3b,Jennifer Cook,Tech,8c8a7e3e-9d23-4531-a701-d27f96ee0193,2025-02-26,Group Session
+8dc9e270-7d25-44c5-b34a-d39baa92931c,Nina Farrell,Tech,66d20c82-b84d-4f2f-ba02-8f4037db2c0b,2025-02-03,One-on-One

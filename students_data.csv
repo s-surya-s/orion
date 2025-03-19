@@ -1,0 +1,201 @@
+Student_ID,Student_Name,Email,Major,Graduation_Year
+5544d7c2-72bb-4fb1-9d7a-600835bee7eb,Tracey Callahan,rebecca94@example.com,Biology,2024
+a33a6c88-0fcd-4323-bbe3-a2574328d663,Miranda Garcia,parker41@example.com,Psychology,2023
+4f1c3c35-d8ba-4b41-90b9-a7f237ae9871,Michelle James,lisa93@example.org,Engineering,2024
+c9eba445-3cb1-4ffb-beb0-6d648e22706e,Tyrone Coleman,andrewsrichard@example.org,Business,2024
+3be9677a-2d8c-4a0d-a8d1-80d36639a8b8,James Gonzales II,elizabethcolon@example.com,Business,2023
+bf48a325-c78f-4165-b603-f5fdc0558321,Donald Romero,kempcharles@example.com,Engineering,2024
+f32a42ea-ef76-468d-a2a5-23cec0d4a07e,Cindy Griffin,dreed@example.com,Biology,2023
+0cb99aca-0db4-4447-83a7-ba06e17df6ef,Brittany Henry,anthony31@example.org,Engineering,2023
+7f24468a-b636-4a5f-85d9-daddb7a9b210,Joel Daniels,gonzalesandrew@example.org,Computer Science,2025
+80f32d46-2e60-4908-a0ec-4b8e00949823,Wesley Martinez,paul73@example.com,Biology,2024
+be2965f5-10ff-44ae-a5a7-212f7efecf01,Lisa Jones,clarkchristopher@example.com,Engineering,2023
+d6a7ecfb-df8e-4c13-94a9-c8c5ed84787f,Thomas Bennett,mark40@example.org,Biology,2023
+6e3afcd4-92e1-4d54-a4dc-5c1d1a1df5b6,Michael Miles,annepalmer@example.net,Business,2024
+e83ec66c-65c5-4c64-b9f9-09c8e7f632b2,Robin Edwards,jack62@example.com,Engineering,2023
+9f68bb8f-8eaf-4c49-bae0-161c6f7dca21,Elizabeth Holmes,brownlisa@example.com,Computer Science,2023
+c7af15dd-11ee-4723-9e6a-82ba737beb88,William Miller,philip07@example.net,Psychology,2024
+963c275a-c4ff-4a67-a25b-6f6adc978366,Christina Thompson,estradalisa@example.com,Biology,2023
+b9212f8b-669f-4448-a498-e19ec361e886,Michael Lyons,zdavis@example.org,Biology,2025
+6d5f1a97-c912-4b2a-9d18-321b98e41c9b,Michael Pruitt,xpowell@example.net,Computer Science,2024
+c66bf840-12e1-4bbc-b668-23d2b2eac794,Michael Grimes,bwatts@example.org,Psychology,2023
+f463a81c-7259-4be8-b346-8a9c644ccc5f,Stacy Bailey,bishopanne@example.net,Psychology,2023
+7856fe19-ee2f-42f0-8c95-eb99f4e3b491,Nathan Oconnor,ebowman@example.com,Biology,2024
+19eda96f-4a88-4ecc-ae12-69a1c221f751,Scott Macias,charles28@example.com,Computer Science,2025
+a41b6688-79ba-4ec5-b4e3-babbf9393651,Amy Lopez,samantha49@example.net,Biology,2025
+70acf755-aefb-4b69-8b07-52df196594e8,Robert Middleton,moorejohn@example.net,Psychology,2024
+808f9e73-66ee-4b30-8f7d-6afea30fb92b,Jacob Boyd,hrobinson@example.org,Computer Science,2024
+bab2d464-108c-46c8-8493-4ddec0451c9d,Mary Grant,madisonnunez@example.org,Business,2025
+7741b252-bb6b-4dde-8d8b-b16451e8f5e0,Peter Wheeler,asalas@example.net,Computer Science,2024
+f221aaf0-a5af-40f3-a333-e768bb7d7c25,Edward Williams,michellethompson@example.net,Psychology,2024
+9a4b1f74-cf2a-4e54-ae5b-5765fb79df21,Donald Perez,natasharobles@example.net,Psychology,2023
+3cfb0465-f1cf-480f-b702-a183b0485cf1,Joshua Williams,brownmelissa@example.org,Computer Science,2025
+bbba8c50-707b-4173-8373-f9ebe5061e58,Stephanie Middleton,margaret82@example.org,Business,2023
+df062a3a-eabe-425a-ba8a-3f3f50931c8c,Rebecca Spencer MD,haleymassey@example.com,Psychology,2024
+b44d1b51-3f65-4cc1-81c4-2837729fc782,Julie Santos MD,bwilson@example.net,Computer Science,2025
+290851af-3172-442b-aa0c-e07e62a6588f,Jennifer Smith,tsparks@example.org,Engineering,2023
+66d20c82-b84d-4f2f-ba02-8f4037db2c0b,Ashley Maxwell,princeabigail@example.net,Psychology,2023
+0b6bf175-d7e2-4406-9d7a-879c55d28de3,Ann Conner,jessica72@example.net,Business,2024
+54eb5b1a-add7-4f51-9d45-5a8239f79dc5,Betty Bennett,waltersalazar@example.com,Biology,2025
+0081030f-1791-49c1-b867-7c4a0db6a253,Michelle Parker,hramos@example.net,Biology,2025
+8328fc38-1dd9-49a1-85dd-e69ca6e3617e,Adam Collins,kerrypeters@example.net,Computer Science,2025
+283a784d-08fd-4b56-be01-294e8bfd9dba,Hailey White,browninganthony@example.org,Biology,2024
+4b43a5b8-29fd-4bd7-ac7f-386faff6666f,Jay Austin,manuelmeza@example.com,Business,2023
+1572ef8f-31a0-427d-8387-0114dfe1454a,Jerry Ramirez,ashley17@example.net,Psychology,2024
+c41da52e-6872-47d0-a1bc-de6b16ad5fbc,Ernest Rivera,martineznatasha@example.org,Business,2025
+74013f52-fd43-4386-91ed-b1a1cad11d28,Bryan Chavez,jameswood@example.net,Engineering,2023
+d4d0442c-344b-452b-80d2-6316566e7fe3,Amy Jones,ebeasley@example.com,Business,2024
+e80e6f18-ab6f-4ab0-82de-609f0f305936,Andrew Aguirre,cody44@example.org,Business,2023
+644d25c7-b8a1-4084-ae45-0ebbf4f54014,Crystal Ayala,richlisa@example.com,Engineering,2025
+a14cbc14-c080-42ad-aaec-8ddcdbdf3334,David Gomez,richard36@example.org,Biology,2024
+9d566fae-2dc3-49d9-b99c-e1eaa89f1f20,Jason Gonzalez,parkerpatricia@example.com,Psychology,2024
+bdd6574c-0c3a-494f-bb1e-f8f296f5ab36,Adam Patterson,mwashington@example.net,Business,2023
+5c2baf88-20bf-4697-b5e3-3beaff3ce83b,Ian Newton,kimemily@example.org,Computer Science,2023
+4597915e-7bd5-44fc-b828-7485b35a8d02,Thomas Mckenzie,michelledalton@example.org,Computer Science,2025
+0273b164-b8cf-4beb-bb1d-f3a7dbac3c47,John Campbell,dpreston@example.org,Engineering,2024
+55cb1837-17e3-4c88-99ed-bf96e70266fa,Jermaine King,amberdoyle@example.com,Engineering,2024
+a51ee335-6f06-4d6e-9bb2-3d12f4b08c9e,Dalton Murillo,smithjavier@example.org,Computer Science,2023
+233832d5-160a-444f-97a1-f6b3c95ee3f8,Justin Cooper,tmaldonado@example.com,Biology,2023
+018e732a-e00a-4a02-9972-bb76b4cf52b9,Tina Ortiz,gregory25@example.org,Engineering,2024
+d77c69c6-75fb-4d37-b040-9eed1644545f,David Higgins,johnmartinez@example.com,Business,2025
+b491a000-6df0-4c8d-a6c3-218c7d321f39,Willie Hodges,gallison@example.com,Engineering,2024
+490c6f6a-3a4a-4fb2-a5ef-a5854ff576af,Robert Ortega,kaitlynjames@example.com,Business,2023
+4c476d0c-b4ac-46d1-8c36-521cfdc46f05,Jeffrey Duarte,haleylisa@example.com,Biology,2023
+c0f39872-31c3-4ec9-ad44-3b289d2f1010,Emily Taylor,fredjordan@example.com,Psychology,2025
+be6d21ca-8feb-4737-a46d-ff8039821b60,Jennifer King,james98@example.org,Engineering,2025
+a9b45e65-8f0a-42a1-98be-c4554aa2f2dc,Malik Bailey,trancatherine@example.org,Psychology,2023
+6d3bc1e0-f960-4608-a6d1-16d867453c5b,Matthew Paul,ykelly@example.org,Psychology,2023
+cabccec3-847a-4795-969a-d76f5780ce0a,Ms. Abigail Bradshaw,hallen@example.com,Psychology,2023
+a357ca8d-e43b-4df1-9385-7021b48a85f9,Ashley Webb,timothybrock@example.org,Psychology,2023
+143f94b0-a0f1-42fc-bd91-d3886a0e9721,Katrina Kramer,kristen03@example.net,Computer Science,2024
+d88ebe0d-3049-4e3d-acce-4f93fc48d9a6,Erik Rodriguez,gabriel75@example.net,Biology,2024
+92ecf065-dbcc-45e6-94bb-2a4d7fbe6f65,Stephanie Munoz,john01@example.org,Psychology,2025
+4afd3b71-a387-47d0-a165-3f34abff39ef,Spencer Simpson,roger10@example.com,Engineering,2025
+79aed322-0684-4e0a-9b23-6f00e25ae4d8,Amy Boyle,rebeccaklein@example.net,Psychology,2024
+0025d01a-3d29-4421-a9aa-f160c1041004,Taylor Brewer,fjames@example.net,Psychology,2023
+e681c3da-7cb0-4efb-adf4-0e76dfc66ef9,Amanda Freeman,leonardsandra@example.org,Engineering,2024
+cb4bc792-df14-40ff-befb-71080ab7ec5c,Christopher Nolan,donaldking@example.net,Business,2025
+3d09bf77-80bf-412c-b476-f85b410f3664,Suzanne Snyder,ariaspaula@example.com,Computer Science,2024
+8b27d154-5781-4233-847f-d5d56b954473,Roberto Maddox,matthew67@example.org,Business,2024
+5801ee17-cbde-4258-95f4-e9a80f562bf2,Brad Jackson,iramsey@example.net,Psychology,2024
+633ab2c5-b2f7-4f98-95e5-6ddc778e94eb,Sharon Ramirez,ryan31@example.org,Psychology,2023
+bbc50f3f-4f1b-4793-a7ce-cba087d1954c,Mariah Brown,xsimpson@example.org,Business,2025
+e8808e4b-5c2a-48f7-8cb6-82ba873c9a0a,Martha Davila,nicholasjones@example.com,Computer Science,2024
+efc7d1e3-a382-491d-9ac3-7fdb98f49496,Charles Wells,kevin77@example.com,Business,2023
+78b2de7b-aec6-4e12-9646-9d1a659b3ea9,Amanda Foster,carrjoel@example.com,Psychology,2025
+83586293-070d-4728-8198-403e1d841f8c,Julia Torres,conleycaroline@example.com,Business,2025
+12429d75-370b-466d-80f3-3959aa897677,Zachary Calderon,christopher81@example.net,Psychology,2024
+cbd97609-c565-4dd3-baa0-82ddc45a6a60,Rachel Bell DVM,alisha62@example.net,Biology,2024
+d8cb5076-88e7-4b9c-9777-77fcb55ad7d2,Kristy Atkinson,christophermcintyre@example.org,Computer Science,2025
+c41b27b9-7fa8-4586-a830-ddfb018fd4c2,Yolanda Hubbard,wellsmichael@example.net,Computer Science,2023
+d61ecc8e-ebbd-426a-8494-6f553aeb729a,Catherine Norris,josephsteven@example.com,Business,2024
+5cd545bd-8e42-49be-86a9-05a0c647d8a6,Hunter Hebert,tnguyen@example.com,Psychology,2024
+a73077ed-52e8-4efe-950a-993e7716b4a5,James Ponce,ekeller@example.org,Engineering,2024
+91a46741-7f2b-40d8-b1fb-61c7b5276117,Melissa Garrett,nherrera@example.net,Psychology,2025
+87c13ceb-c219-48dc-922f-e45d4bf91da8,Jasmine Clark,xandrews@example.net,Computer Science,2025
+4b0512aa-7dd8-4dca-8e3a-59d08d28df40,Amy Bates,hoffmanreginald@example.com,Engineering,2023
+feb50268-b921-48e2-b3f4-8f895d218c72,Seth White,virginia32@example.org,Biology,2023
+664c0011-e985-4c67-a454-d70c717edc92,Eddie Edwards,qwaller@example.org,Engineering,2025
+f4e108d1-1a2f-4a3f-a6e4-cfe2f18b2317,William Gillespie,phillipsryan@example.org,Psychology,2023
+09632edf-bcf1-4d7b-8d19-0321416040eb,Alexander Brown,mossallen@example.com,Computer Science,2023
+3f42da45-1ac1-4a53-a332-2968c77d7793,Katherine Rojas,xharris@example.com,Biology,2025
+f06129b5-eaa4-42f4-a1f6-396fa153e3c3,James Reynolds,richardsdavid@example.com,Biology,2024
+14f27f80-125c-45c5-88c2-7a553d7d667b,Steven Ingram,gmiller@example.org,Engineering,2023
+6392df1a-6d0e-4eea-872e-e6d5149607b7,Charles Turner,christinahartman@example.com,Computer Science,2023
+442298d7-e998-44cc-af50-a101941a6906,Laura Sanchez,hernandezelizabeth@example.com,Psychology,2025
+609b56bf-388e-42cf-99b8-bdfbd85e5446,Alyssa Burns,deborahramirez@example.com,Psychology,2023
+5f99b8ff-5781-4f13-a766-62181f495f60,George Williams,allison26@example.org,Biology,2023
+f3c27582-f3df-4f30-ab73-c52f522f11bd,Joseph Gross,wfarrell@example.net,Psychology,2024
+784c16c8-c348-44d1-b134-a3037d21b85f,Amy Cox,garzavickie@example.net,Computer Science,2025
+a19cf023-ee15-4572-a932-bfb7fd954124,James Flores,briannamoore@example.org,Psychology,2023
+9336b1c2-ddc7-43ba-b2c1-64416338000d,Jeffrey Taylor,joshua62@example.com,Business,2024
+29e32cf2-1a9c-46f2-9bf0-d832d5f300c3,Francisco Lee,lori02@example.net,Biology,2023
+9ea6af2d-f8d8-48ab-a79d-ffb78772fb41,William Ray,sandrastewart@example.org,Psychology,2024
+08d7080e-2496-41b2-83f3-1ca5cbc79707,Samuel Kaufman,evanssummer@example.net,Psychology,2025
+35fccf04-541d-41b5-b781-518b6fc3a6d0,Danielle Guerra,aaron89@example.org,Psychology,2023
+ed447594-fc34-4d8a-9145-cefa4e9fc41d,Derrick Porter,gnewman@example.net,Business,2024
+f68f5374-9117-49bf-a767-d6c0790f0fdf,Kimberly Alexander,ostewart@example.org,Psychology,2024
+5732ae47-cfe5-4828-b335-ba4070d5f9f4,Mrs. Jessica Wood PhD,jessicastrong@example.com,Business,2023
+21043cc4-bdd2-43f8-b521-f6dc2acfa434,Christopher Krueger,bsmith@example.org,Computer Science,2024
+0ee9f790-85c2-4876-9237-00fed7353594,Jonathan Webb,melissasanchez@example.net,Biology,2023
+8f7060f7-cba8-496d-ad8a-ff0c7090fe39,Nicholas Braun,lopezkyle@example.net,Biology,2024
+08e37188-e2d9-4b91-9028-bede17f942e4,Christina Avila,nfernandez@example.org,Business,2025
+b7a651df-4390-4573-9328-6cf65aa420ea,Devin Clark,richardkoch@example.net,Business,2023
+e5125799-8c61-47dc-8734-8f538865fb09,Sara Hurley,evelynbyrd@example.org,Engineering,2023
+cf94bf77-aaa7-4418-97a4-c45db0603463,Megan White,michaelgutierrez@example.com,Engineering,2023
+624a346d-4a56-4696-9958-24aa7287bac4,Megan Kim,james26@example.com,Business,2024
+6eb5cc5a-e963-4f7c-917f-b1b8b588c29d,Mary Gibson,jon57@example.org,Business,2025
+5379752a-9a3f-4f96-96a3-012e4d75b2e9,Cynthia Watkins,zacharyrodriguez@example.net,Computer Science,2023
+c7e74592-1817-443d-aaba-754844b96947,Jared Vargas,kyle44@example.net,Engineering,2025
+0d19752e-5d32-404f-9784-c046d297f1a9,Patrick Martinez,dperez@example.net,Engineering,2023
+a3f2b8e0-4b66-484c-8ca2-0ec1848227c6,Jennifer Kim,rogersmichelle@example.net,Biology,2025
+c91c392b-6924-476c-8195-3b39bcd7da30,Tina Henry,floresshannon@example.com,Engineering,2023
+ce8fbf50-5a73-4e4f-bc0d-81514b1476f9,Robert Smith,ryan77@example.com,Business,2023
+00dc6627-8179-4e14-9d2a-9b8ef3d13399,Stephen Abbott,timothypark@example.com,Computer Science,2025
+c605aa3e-07df-41d5-8a7f-85b195d5ccb2,Barbara Hart,vchan@example.com,Computer Science,2024
+b1c2eb46-e45a-4849-ad94-51bba30828c3,Rachel Mendez,jeffrey98@example.net,Biology,2025
+2b35190c-4ac5-49ac-bb90-c3efeb89b98c,Bianca Perez,stacy74@example.org,Engineering,2024
+d6596e4c-79a8-497b-829e-ca5eba85b86e,Cory Dawson,mmayer@example.org,Business,2025
+ac397c45-1c6b-429b-9189-9a69c6596d15,Henry Lane,rtaylor@example.org,Business,2025
+f503eea8-702c-4748-9295-50cae1b1e54c,Jeremy Roth,vargasmichele@example.org,Biology,2023
+0a1c98a7-bcb4-4619-9122-a1a1de3673a2,Cassandra Weber,lori45@example.com,Business,2023
+bcf7e8a2-99a1-43c3-b228-47d33e5d6057,Deanna Cross,kelly01@example.net,Engineering,2024
+ac028550-dd16-4926-b5c5-f51720142270,Robert Hobbs,kennedyjordan@example.net,Business,2024
+f6c420d3-0357-42ba-ba12-f347178f8904,Rebecca Bartlett,hernandezapril@example.net,Engineering,2024
+ca818a45-70ec-40b4-86fd-19105c85a0b8,Christopher Smith,aprilforbes@example.com,Psychology,2023
+3f02066a-0f72-427a-80a5-8932e219a906,Lindsey Ayala,pcollins@example.com,Psychology,2025
+e13e6f8b-ab56-479a-ad88-ae84e629f5ae,Anthony Little,maldonadotheresa@example.net,Business,2024
+38cad91a-03a8-4070-8b54-da74c513d019,Kim Kelley,martinezteresa@example.com,Computer Science,2025
+11bf63a7-fb29-4289-8981-c313b0b9ec1e,Jay Hardy,zanderson@example.com,Computer Science,2025
+fbce5c6d-b791-49a0-bb44-9b068279cb69,James Hoover,tinabennett@example.org,Computer Science,2024
+0950dcf4-5615-44b3-aa81-438c37d17637,Juan Smith,meagan94@example.org,Business,2023
+8402aad7-b667-411c-ae61-0866711c6bb7,Jesus Fisher,dianagriffin@example.org,Business,2025
+1e73f316-8347-4e4f-9f4e-c69993dc297d,April Edwards,mitchellmelanie@example.com,Engineering,2023
+f632a3e2-03ad-4b64-94c7-ee50ee8dbf8a,Sherry Riddle,matthew85@example.net,Psychology,2023
+19e0022e-5477-482f-98fa-551432bb92ba,Deborah Smith,maldonadojamie@example.org,Psychology,2023
+5731e433-09a1-46ef-b983-472b2fd4cfaa,Jessica Love DVM,gmeadows@example.com,Business,2023
+932136c6-782e-44b9-9f9c-09f2b434d58e,Mr. Gabriel Richards Jr.,acardenas@example.com,Engineering,2023
+85d781f6-f823-4b5d-a8c6-27d4ddc59db7,Jonathan Myers,uelliott@example.com,Biology,2024
+6ae9889a-fb2d-48c5-ba46-7aa43ecce136,Katrina Yang,jacqueline17@example.net,Engineering,2025
+41f197d4-410a-4187-9cd2-1111871c1805,Adam Lane,savannah85@example.com,Computer Science,2023
+cb6bebc1-9292-4585-bb23-e6ca2fc138c3,Dan Lewis,beckyjordan@example.net,Biology,2024
+f9ce1df1-5c6b-4f4c-832f-c7567c73597a,Maurice Lopez,julie70@example.org,Business,2023
+65533903-b078-493c-a037-186b7e1e5d6c,Steven Keith,kholland@example.org,Engineering,2024
+4a0009a7-4309-4d82-8284-38faf26f8329,Christopher Stewart,michelleperez@example.org,Computer Science,2024
+1aa312c2-0a8d-4e23-8f75-9b0f67f4dff0,Cassandra Dillon,michaelmueller@example.org,Business,2025
+c12bd6c1-bd9c-4bdd-9938-706dcd82093b,Jared Alvarado,wkelly@example.com,Biology,2023
+8c8a7e3e-9d23-4531-a701-d27f96ee0193,Michelle Watson,vcole@example.org,Psychology,2024
+516445e9-d265-4969-b293-992e7c4e1f08,James Hernandez,brittany20@example.org,Engineering,2023
+cdcfa97f-80d9-4bdc-8bed-db56616094e8,Nancy Allen,zgray@example.org,Computer Science,2024
+bb702a04-5c4f-48ba-bd3c-316d8f345ac1,Nancy Santiago,alexanderwright@example.com,Psychology,2025
+20302053-6e2a-4740-bd79-8003b172ee5e,Kenneth Cisneros,knightjessica@example.com,Computer Science,2023
+ab48860a-5be0-4aa0-bda8-2ca97f559ba5,James West,mackenzie49@example.org,Biology,2025
+aa2b04be-c15e-4109-aee0-29da98470363,Nancy Blankenship,murphycarrie@example.net,Computer Science,2024
+5d1a0b28-e0bc-42d2-96de-39e109ef039c,Katie Walker,lance64@example.net,Engineering,2024
+90586a09-73c2-475a-b7d6-ac5a6377f60c,Audrey Davis,pamelamoreno@example.net,Engineering,2023
+26b335e2-f813-4a61-973f-293d88276b3a,Timothy Maxwell,andrew86@example.org,Computer Science,2023
+d41039f6-eb8d-4bed-a3a1-3f6c53011797,Clarence Mann,sandovalalan@example.com,Engineering,2024
+cf02f84e-fd7f-42bf-ad66-d3a8e8909c2c,Jonathan Foster,wwalker@example.com,Biology,2023
+14a884c5-86ee-4644-ae00-00da9f654453,Sara Alexander,erichardson@example.org,Psychology,2025
+74ae65f4-8777-4f61-9228-23e34a3fbfa8,Trevor Friedman,amanda63@example.com,Engineering,2023
+4541197a-11f4-4ce7-b96c-820a8d12e392,Brad Martinez,ihill@example.com,Psychology,2024
+e307fb19-be2a-4e6e-97b8-4bbda8fa5e05,Lisa Finley,bennettmichelle@example.org,Psychology,2024
+260e8473-de34-4513-9b46-ae1e227b3bfb,Frederick Knight,jordanmichael@example.com,Computer Science,2025
+1ccdb2ca-3166-46ca-a375-2c4cdbd829ec,Andrew Lloyd,zanderson@example.org,Business,2024
+c16bddce-fb1c-4d3b-9bac-5a39548fc926,Wayne Carpenter,deborahrichards@example.org,Biology,2023
+22e9b5c0-b5db-4e21-a766-8b2db2a0f59c,Bradley Myers,susansalazar@example.org,Psychology,2025
+7041ef0e-1950-4006-8c78-3f52115f5349,Diana Carter,andreaturner@example.com,Computer Science,2023
+1e575015-fbce-4acb-85ab-f98892d15fbc,Jerry Castaneda,hschultz@example.com,Computer Science,2023
+f1e7f411-f58b-4f98-9d1d-38dd91547b1b,Frank Herman,hollowaymegan@example.net,Business,2025
+783595b2-e07d-4398-9504-59e1f4e5e6e5,Chris Cole,peterjohnson@example.com,Psychology,2024
+775fdd83-7525-45b1-8860-b4972383a987,Bruce Hall,jordankimberly@example.org,Computer Science,2023
+e5d72183-c225-4ac9-b60e-991348f11065,Anthony Robinson,bradjohnston@example.com,Computer Science,2025
+c4affbce-0ef1-46d8-a4f6-90b55c9a9051,Brian Johnson,william55@example.com,Psychology,2023
+04e2322b-2bc6-4c6e-96d9-fbd4bbf58317,Jason Bailey,stephanie10@example.com,Engineering,2024
+ac6f6a87-f9be-4aa5-8c7d-8255f84a1ec2,Abigail White,ismith@example.com,Engineering,2024
+91bcb9e5-f5bf-473a-8e80-c173807623ff,Charles Perez,tonya30@example.com,Biology,2025
+d16c0bdf-f9d1-4f65-a7b7-000512bc3ebc,Tiffany Smith,ambersmith@example.com,Computer Science,2025
+61dfe0b7-3456-4b9d-b96f-26d243cccab4,Lindsay Jacobs,kelly88@example.net,Business,2023
+d1888bce-9269-45f8-a54f-242ccd0c40eb,Charles Contreras,katiemalone@example.com,Computer Science,2024
+0e9e078b-7565-42a0-9ac1-2a99aba31734,Tony Jones,collinsashley@example.org,Business,2024
+6d458b4f-ec6d-4164-a36a-a01ab7fd9a3e,Anthony Gomez,donna67@example.org,Computer Science,2023
